@@ -1,5 +1,5 @@
-1. "pip install -r requirements.txt"
-2. Create a virtual environment and activate it.
+1. Create a virtual environment and activate it.
+2. "pip install -r requirements.txt"
 3. "cd ChatApp/"
 4. "python3 manage.py runserver"
 5. "http://localhost:8000" on two different browsers
